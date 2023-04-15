@@ -1,0 +1,29 @@
+body {
+    background-color: #FFF4E0;
+    color: #4D4D4D;
+    width: 720px;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.orange-bg {
+    background-color: #fcd0b6;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+#title {
+    text-align: center;
+}
+
+#title,
+.section {
+    color: #b46060;
+}
+img {
+    margin: auto;
+    display: block;
+}
+p {
+    padding: 0 8px;
+}
